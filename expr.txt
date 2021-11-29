@@ -1,0 +1,13 @@
+1 + 1
+1 * 2
+1 \ 5
+9 - 5
+s
+syntactic
+structures
+1
+e
+27
+31
+22
+14
